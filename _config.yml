@@ -9,7 +9,7 @@ title:               looks like a dance epidemic to me
 tagline:             
 description:         '"it\'s a blog"'
 url:                 http://mjmaenner.github.io/blog
-baseurl:             /blog
+baseurl:             /
 paginate:            5
 
 # About/contact
