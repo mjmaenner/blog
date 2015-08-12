@@ -8,13 +8,13 @@ relative_permalinks: true
 title:               looks like a dance epidemic to me
 tagline:             
 description:         it's a blog
-url:                 http://mjmaenner.github.io/blog
+url:                 http://mjmaenner.github.io/blog/
 baseurl:             /
 paginate:            5
 
 # About/contact
 author:
-  name:              Matthew Maenner
+  name:              Matt
   url:               http://matthewmaenner.com
   
 # Custom vars
