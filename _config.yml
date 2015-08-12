@@ -7,7 +7,7 @@ relative_permalinks: true
 # Setup
 title:               looks like a dance epidemic to me
 tagline:             
-description:         '"it\'s a blog"'
+description:         it's a blog
 url:                 http://mjmaenner.github.io/blog
 baseurl:             /
 paginate:            5
