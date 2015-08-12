@@ -8,7 +8,7 @@ relative_permalinks: true
 title:               looks like a dance epidemic to me
 tagline:             
 description:         it's a blog
-url:                 
+url:                 http://mjmaenner.github.io/blog
 baseurl:             http://mjmaenner.github.io/blog
 paginate:            5
 
